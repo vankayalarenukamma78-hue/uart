@@ -1,0 +1,12 @@
+```text
+--------------------------------
+UART Simulation
+Transmitted Data = a5
+Received Data    = a5
+RESULT: PASS
+--------------------------------
+```
+
+Expected result: **PASS**
+
+The UART receiver correctly receives the data `A5` transmitted by the UART transmitter.
